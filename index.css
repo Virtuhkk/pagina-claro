@@ -1,0 +1,19 @@
+.div-principal {
+    height: 500px;
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+ 
+.div-secundaria{
+    height: 200px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

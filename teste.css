@@ -1,0 +1,48 @@
+.header {
+    height: 80px;
+    width: 100%;
+    border: 1px solid red;
+    background-color: red;
+    cursor: pointer;
+}
+
+
+p{
+    color: white;
+    font-size: 31px;
+    margin-left: 50px;
+   
+   
+}
+
+    
+
+
+.header3{
+    height: 70px;
+    width: 100%;
+    border: 1px solid black;
+    
+}
+
+    
+
+ 
+ 
+    
+  .part1{
+   font-size: 17px;
+   margin-left: 100px;
+   color: aqua;
+ }
+ .part2{
+    color: yellow;
+    font-size: 17px;
+    margin-left: 30px;
+
+ }
+ .part3{
+    color: whitesmoke;
+    font-size: 17px;
+    margin-left: 24px;
+ }
